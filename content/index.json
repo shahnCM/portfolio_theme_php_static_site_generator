@@ -1,0 +1,37 @@
+{
+  "page": "index",
+  "slug": "/",
+  "view": "basic",
+
+  "title": "Mahir Shahrier",
+  "subtitle": "Portfolio", 
+
+  "prof": "Software Developer / Programmer",
+
+  "bio" : {
+    "intro": "The great irony is that I see connections in everything, but the one thing I fail and struggle with most is connecting with other people. Thanks for finding me gently!",
+    "education": "Bsc in CSE (2016 - 2020)"
+  },
+
+  "links": {
+    "index": "./index.html",
+    "experience": "./experience/index.html",
+    "skills": "./skills/index.html",
+    "projects": "./projects/index.html"
+  },
+
+  "contacts": [
+    {
+      "name": "Linked In",
+      "url": "https://www.linkedin.com/in/mahir-s-304b2319b/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/nm.shahrier"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/shahnCM"
+    }
+  ]
+}

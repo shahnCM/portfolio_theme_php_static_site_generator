@@ -1,0 +1,36 @@
+{
+  "page": "Skills",
+  "slug": "/skills",
+  "view": "portfolio",
+
+  "title": "Mahir Shahrier",
+  "subtitle": "Portfolio", 
+
+  "links": {
+    "index": "../index.html",
+    "experience": "../experience/index.html",
+    "skills": "./index.html",
+    "projects": "../projects/index.html"
+  },  
+  
+  "skills": [
+    {
+      "type": "Web Application",
+      "technologies": "Html, Css, Js, Php, NodeJs, Laravel, ExpressJs, Vue, React"
+    },
+    {
+      "type": "Cross Platform Desktop Application",
+      "technologies": "ElectronJs"
+    },
+    {
+      "type": "Database (Sql/NoSql)",
+      "technologies": "MySql, MongoDB"
+    },
+    {
+      "type": "Data Structure & Algorithms",
+      "technologies": "Python, Java, C/C++"
+    }
+
+  ]
+
+}

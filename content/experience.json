@@ -1,0 +1,31 @@
+{
+  "page": "Experience",
+  "slug": "/experience",
+  "view": "portfolio",
+
+  "title": "Mahir Shahrier",
+  "subtitle": "Portfolio", 
+
+  "links": {
+    "index": "../index.html",
+    "experience": "./index.html",
+    "skills": "../skills/index.html",
+    "projects": "../projects/index.html"
+  },  
+  
+  "experiences": [
+    {
+      "position": "Software Developer",
+      "duration": "July 2019 - Present",
+      "job_type": "Part-time",
+      "company": "Xit Bangladesh"
+    },
+    {
+      "position": "Web Application Developer",
+      "duration": "February 2019 - June 2019",
+      "job_type": "Part-time",
+      "company": "ChangeTech BD"
+    }
+  ]
+
+}

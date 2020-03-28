@@ -1,0 +1,48 @@
+{
+  "page": "Projects",
+  "slug": "/projects",
+  "view": "portfolio",
+
+  "title": "Mahir Shahrier",
+  "subtitle": "Portfolio", 
+
+  "links": {
+    "index": "../index.html",
+    "experience": "../experience/index.html",
+    "skills": "../skills/index.html",
+    "projects": "./index.html"
+  },    
+  
+  "projects": [
+    {
+      "name": "Static Site Generator",
+      "technologies": "Php",
+      "summary": "A static site generator written on php which uses laravel's blade template-engine",
+      "company": "Self",
+      "link": "https://github.com/shahnCM/php_static_site_generator"
+    },
+    {
+      "name": "Github Finder",
+      "technologies": "React Hooks & Context Api",
+      "summary": "This application uses github api to pull user data. You can search & find anyone on github to see their profile and repos",
+      "company": "Self",
+      "link": ""
+    },
+    {
+      "name": "Cloud Inventory",
+      "technologies": "Php & Laravel",
+      "summary": "Multi-store Inventory management system",
+      "company": "Xit Bangladesh",
+      "link": ""
+    },
+    {
+      "name": "Project Catelog",
+      "technologies": "NodeJs & ExpressJs",
+      "summary": "Application to store project details",
+      "company": "ChangeTech BD",
+      "link": ""
+    }
+
+  ]
+
+}
